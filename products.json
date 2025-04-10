@@ -1,0 +1,74 @@
+{
+  "products": {
+    "shoes": [
+      {
+        "color": "brown",
+        "sizes": [
+          {
+            "size": "38",
+            "isAvailable": true
+          },
+          {
+            "size": "39",
+            "isAvailable": false
+          },
+          {
+            "size": "40",
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "sizes": [
+          {
+            "size": "38",
+            "isAvailable": true
+          },
+          {
+            "size": "39",
+            "isAvailable": true
+          },
+          {
+            "size": "40",
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "color": "nude",
+        "sizes": [
+          {
+            "size": "38",
+            "isAvailable": false
+          },
+          {
+            "size": "39",
+            "isAvailable": false
+          },
+          {
+            "size": "40",
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "color": "white",
+        "sizes": [
+          {
+            "size": "38",
+            "isAvailable": true
+          },
+          {
+            "size": "39",
+            "isAvailable": true
+          },
+          {
+            "size": "40",
+            "isAvailable": false
+          }
+        ]
+      }
+    ]
+  }
+}
